@@ -14,7 +14,7 @@ import random
 
 pygame.init()
 
-crash_sound = pygame.mixer.Sound("lose-m.wav")
+crash_sound = pygame.mixer.Sound("Mohsen Yeganeh - Behet Ghol Midam (320).mp3")
 pygame.mixer.music.load("Mohsen Yeganeh - Behet Ghol Midam (320).mp3")
 
 
